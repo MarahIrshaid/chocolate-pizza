@@ -1,0 +1,33 @@
+header div {
+    display: inline-block;
+
+}
+header {
+
+}
+
+/* .float-right {
+    text-align: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+} */
+nav {
+    display: inline;
+    padding: 10px;
+    float: right;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.float-left {
+    display: inline-block;
+
+}
+
+.delicious {
+    display: inline-block;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
