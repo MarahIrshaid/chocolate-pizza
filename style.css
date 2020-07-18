@@ -55,22 +55,28 @@ p {
 #recipe {
     
   
-    font-size: 1em;
+    font-size: 1.5em;
     font-family: 'Architects Daughter', cursive;
     width: 100%;
-    height: 250px;
+    height: 330px;
     padding: 60px;
     display: inline-block;
     margin-left: auto;
+    margin-right: auto;
     position: relative;
+    background-image: url(img/list-bg.png);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    /* left: 100px; */
+
 }
 #checkboxes{
-    background-image: url(img/list-bg.png);
-    background-size: auto;
-    background-repeat: no-repeat ;
-position: absolute;
-left: 392px;
+    border-collapse: separate;
+    border-spacing: 150px 0px;
+    position: absolute;
 }
+
+
 #egg , #granulated{
     text-decoration: line-through;
 }
