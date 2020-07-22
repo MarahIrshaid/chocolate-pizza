@@ -6,11 +6,11 @@ nav {
    
 
 }
-.logos {
+/* .logos {
     display: inline-block;
     
 
-}
+} */
 .icons {
     margin-left: 1px;
     margin-right: 0;
@@ -21,11 +21,6 @@ nav {
     display: inline-block;
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
-}
-
-span{
-    /* padding: 10px; */
-    margin: 10px;
 }
 
 #the-best {
@@ -94,6 +89,8 @@ button {
   }
 .venessa {
     width: 100%;
+    margin-bottom: 15px;
+
 }
 .footer{
     text-align: center;
